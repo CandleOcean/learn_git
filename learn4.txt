@@ -1,1 +1,4 @@
+
 Fourth laern file, modified!
+Wow, this is nice for real.
+Editing a text git file from a git bash using vim editor. 
